@@ -89,6 +89,7 @@ namespace GADE6122_POE_CameronReeceHanger_20125973
             }
 
             GOLDDROPS = new List<Item>();
+            WEAPONDROPS = new List<Item>();
             Create();
 
         UpdateVision();
