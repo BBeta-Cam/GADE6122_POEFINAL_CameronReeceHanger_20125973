@@ -43,6 +43,12 @@ namespace GADE6122_POE_CameronReeceHanger_20125973
             get { return MAGE; }
             set { mage = value; }
         }
+        
+        public List<Enemy> LEADER
+        {
+            get { return LEADER; }
+            set { leader = value; }
+        }
 
         private int mapWidth;
 
