@@ -83,6 +83,10 @@ namespace GADE6122_POE_CameronReeceHanger_20125973
             {
                 MAGE = new List<Enemy>();
             }
+             else if(rand_num == 3)
+            {
+                LEADER = new List<Enemy>();
+            }
 
             GOLDDROPS = new List<Item>();
             Create();
