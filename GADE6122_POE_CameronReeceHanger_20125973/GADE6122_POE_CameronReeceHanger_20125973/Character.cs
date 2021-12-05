@@ -43,6 +43,12 @@ namespace GADE6122_POE_CameronReeceHanger_20125973
             get { return vision; }
             set { vision = value; }
         }
+        
+        public List<Tile> WEAPON
+        {
+            get { return weapon; }
+            set { weapon = value; }
+        }
 
         private MovementEnum movement;
 
