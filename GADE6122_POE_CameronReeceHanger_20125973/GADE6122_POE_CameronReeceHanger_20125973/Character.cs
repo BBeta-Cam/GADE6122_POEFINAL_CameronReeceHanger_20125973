@@ -128,5 +128,11 @@ namespace GADE6122_POE_CameronReeceHanger_20125973
         {
 
         }
+        
+         private void Equip(Weapon w)
+        {
+            
+
+        }
     }
 }
